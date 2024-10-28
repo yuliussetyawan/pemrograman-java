@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6f034c1-99cb-465d-b01c-14094b7c0958" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TipeDataBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipeDataBukanPrimitif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
   "keyToString": {
     "Application.TipeDataBoolean.executor": "Run",
     "Application.TipeDataChar.executor": "Run",
+    "Application.TipeDataString.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
