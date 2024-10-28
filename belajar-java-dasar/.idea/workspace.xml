@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6f034c1-99cb-465d-b01c-14094b7c0958" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataBukanPrimitif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperasiBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperasiMatematika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperasiPerbandingan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,34 +32,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2o1FYYlzyl3xwnhMIL71zpQqinz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.OperasiMatematika.executor": "Run",
     "Application.TipeDataBoolean.executor": "Run",
     "Application.TipeDataChar.executor": "Run",
     "Application.TipeDataString.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TipeDataString">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+  <component name="RunManager" selected="Application.DoWhileLoop">
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileLoop" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KonversiNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KonversiNumber" />
+    <configuration name="OperasiMatematika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiMatematika" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,13 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataChar" />
-      <module name="belajar-java-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TipeDataString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TipeDataString" />
       <module name="belajar-java-dasar" />
@@ -79,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
+      <module name="belajar-java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoWhileLoop" />
+        <item itemvalue="Application.WhileLoop" />
+        <item itemvalue="Application.OperasiMatematika" />
         <item itemvalue="Application.TipeDataString" />
         <item itemvalue="Application.TipeDataBoolean" />
-        <item itemvalue="Application.TipeDataChar" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.KonversiNumber" />
       </list>
     </recent_temporary>
   </component>
