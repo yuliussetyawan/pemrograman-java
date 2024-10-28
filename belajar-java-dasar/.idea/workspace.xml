@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6f034c1-99cb-465d-b01c-14094b7c0958" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiMatematika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiPerbandingan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Komentar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodReturnValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodVariableArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DoWhileLoop.executor": "Run",
+    "Application.Method.executor": "Run",
+    "Application.MethodParameter.executor": "Run",
+    "Application.MethodReturnValue.executor": "Run",
+    "Application.MethodVariableArgument.executor": "Run",
     "Application.OperasiMatematika.executor": "Run",
+    "Application.RecursiveMethod.executor": "Run",
     "Application.TipeDataBoolean.executor": "Run",
     "Application.TipeDataChar.executor": "Run",
     "Application.TipeDataString.executor": "Run",
@@ -57,37 +64,37 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DoWhileLoop">
-    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhileLoop" />
+  <component name="RunManager" selected="Application.RecursiveMethod">
+    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperasiMatematika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperasiMatematika" />
+    <configuration name="MethodParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodParameter" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataBoolean" />
+    <configuration name="MethodReturnValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodReturnValue" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataString" />
+    <configuration name="MethodVariableArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodVariableArgument" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
+    <configuration name="RecursiveMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveMethod" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoWhileLoop" />
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.OperasiMatematika" />
-        <item itemvalue="Application.TipeDataString" />
-        <item itemvalue="Application.TipeDataBoolean" />
+        <item itemvalue="Application.RecursiveMethod" />
+        <item itemvalue="Application.MethodVariableArgument" />
+        <item itemvalue="Application.MethodReturnValue" />
+        <item itemvalue="Application.MethodParameter" />
+        <item itemvalue="Application.Method" />
       </list>
     </recent_temporary>
   </component>
