@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6f034c1-99cb-465d-b01c-14094b7c0958" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Komentar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodReturnValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodVariableArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
