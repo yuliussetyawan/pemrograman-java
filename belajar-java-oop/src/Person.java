@@ -12,8 +12,8 @@ class Person {
         this.address = address;
 
         // ini adalah variable shadowing, gunakan "this" untuk menghindarinya
-//        name = name;
-//        address = address;
+        // name = name;
+        // address = address;
     }
 
     // constructor overloading
