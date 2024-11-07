@@ -11,4 +11,10 @@ public class Product {
         this.name = name;
         this.price = price;
     }
+
+    // Method ini biasanya digunakan untuk merepresentasikan object dalam bentuk String
+    // untuk membuat objek lebih muda dibaca
+    public String toString(){
+        return "Product name " + name + " price: " + price;
+    }
 }
