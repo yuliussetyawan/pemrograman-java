@@ -4,9 +4,12 @@ package programmer.zaman.now.data;
 // semua method otomatis abstract, tidak memiliki block
 // Jika melakukan contract idealnya menggunakan interface, bukan abstract class
 
+import programmer.zaman.now.annotation.Fancy;
+
 // Bahkan interface pun bisa implement interface lain, bisa lebih dari 1. Namun jika interface
 // ingin mewarisi interface lain, kita menggunakan kata kunci extends, bukan implements
 // interface => interface = extends, class => object = implements
+@Fancy(name = "Car", tags = {"application", "java"})
 public interface Car extends Hasbrand, IsMaintenace {
     void drive();
     int getTire();
